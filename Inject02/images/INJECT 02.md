@@ -117,7 +117,7 @@ Trả lời tên người dùng của máy tính nghi ngờ nhiễm mã độc.
   C:\Users\user\Downloads\manual.zip
 
 ![image](https://github.com/user-attachments/assets/9ab489f8-4d81-49bf-9a12-b145d2bdad4b)
-
+![alt](http://q.png)
 
 \>>> user
 
