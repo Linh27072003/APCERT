@@ -26,7 +26,8 @@ Dùng lệnh file để xem extensions file:
 
 **file History**
 
-![](Aspose.Words.8b2112e4-22a3-4e1e-8bd6-1f4e42bb8dda.001.png)
+![image](https://github.com/user-attachments/assets/d23fb260-a599-4749-8ad1-30771921cd8a)
+
 
 - Như vậy ta thấy được định dạng file là file Sqlite. Sử dụng Sqlite để xem nội dung file:
 
