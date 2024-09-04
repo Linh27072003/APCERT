@@ -26,12 +26,14 @@ Dùng lệnh file để xem extensions file:
 
 **file History**
 
-![image](https://github.com/user-attachments/assets/d23fb260-a599-4749-8ad1-30771921cd8a)
+![q11](https://github.com/user-attachments/assets/20adfa7e-9351-409f-8ee9-df5305901740)
+
 
 
 - Như vậy ta thấy được định dạng file là file Sqlite. Sử dụng Sqlite để xem nội dung file:
 
-![image](https://github.com/user-attachments/assets/9f916a93-a2ca-42e4-be95-1b5116448aa3)
+![q12](https://github.com/user-attachments/assets/0c6040f6-013e-4880-a7d6-6d00da2de0f7)
+
 
 
 - Quay lại file workspace\_mail\_logs.xlsx. Ta thấy là file chứa mail logs của công ty.
@@ -39,7 +41,8 @@ Dùng lệnh file để xem extensions file:
 Kiểm tra hết các logs, ta thấy được các mail đều được gửi từ các tên miền đã được kiểm chứng như google.com, woof.com, github.com. Trong đó có một tên miền dịch vụ mail đáng ngờ là proton.me.
 proton.me là dịch vụ email mã hóa đầu cuối (end-to-end encryption), tập trung vào bảo mật và quyền riêng tư. Dữ liệu email của người dùng được mã hóa cả khi lưu trữ và trong quá trình truyền tải, giúp che dấu đi người gửi thật sự. Như vậy dễ dàng thấy được mail đó đáng ngờ. Ngoài ra đây cũng là mail có nội dung tải file .zip và link tải tới một máy chủ không rõ bên ngoài và đã được click tải:
 
-![image](https://github.com/user-attachments/assets/be02aad4-4d74-44b6-bdf3-5d3ca2ac714d)
+![q13](https://github.com/user-attachments/assets/2712f67e-ffd3-4adf-bd24-66892b159d8b)
+
 
 
 Tất cả dữ kiện trên ta suy đoán được lần tấn công này được khai thác bằng hình thức email phishing.
@@ -87,7 +90,8 @@ Lựa chọn các mục sau:
 \- Trong nội dung file History. Ta thấy có một bảng là keyword\_search\_terms.
 Dữ liệu chứa trong bảng là các từ khóa đã được search bởi kẻ tấn công.
 
-![image](https://github.com/user-attachments/assets/0429a395-69c7-441a-a044-60895cc2af0f)
+![q5](https://github.com/user-attachments/assets/427408ed-be50-4232-b147-4687916dada4)
+
 
 
 \>>> 1,3
@@ -100,7 +104,8 @@ Trả lời password của tệp nén.
 ## **Answer 6**
 Password của tệp nén được lưu trong mail phising:
 
-![image](https://github.com/user-attachments/assets/e90aa911-6559-409a-8f0c-e6c38229a5cc)
+![q6](https://github.com/user-attachments/assets/2bf7636a-a954-49aa-b4a0-b4b8beb43a9b)
+
 
 
 \>>> share
@@ -116,7 +121,6 @@ Trả lời tên người dùng của máy tính nghi ngờ nhiễm mã độc.
 
   C:\Users\user\Downloads\manual.zip
 
-![image](https://github.com/user-attachments/assets/9ab489f8-4d81-49bf-9a12-b145d2bdad4b)
 ![q](https://github.com/user-attachments/assets/439581ed-af61-4980-960e-76909d65776c)
 
 
