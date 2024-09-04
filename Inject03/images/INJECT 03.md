@@ -2,7 +2,7 @@
 
 \-------------------------------------------------------------------------------------------------------------------------
 
-**Question 1**
+## **Question 1**
 
 Mã hash của tệp mã độc (100)
 
@@ -13,17 +13,21 @@ Mở file pcap.pcapng bằng wireshark để đọc lưu lượng mạng.
 
 Ta tìm gói tin dùng để tải về file mã độc.
 
-![](Aspose.Words.fc33aa14-c623-4cb6-bab5-d18035d35dd8.001.png)
+![z1](https://github.com/user-attachments/assets/81cc8e97-9004-4872-9b03-b0528f2699f8)
+
+
 
 Trích xuất file manual.zip:
 
 \>>> manual.zip > Follow HTTP stream > File > Export objects > HTTP
 
-![](Aspose.Words.fc33aa14-c623-4cb6-bab5-d18035d35dd8.002.png)
+![z11](https://github.com/user-attachments/assets/74f88b27-c929-4d15-86f9-aafcfb8cc17a)
+
 
 Sau khi lưu file, sử dụng mật khẩu **share** giải nén 
 
-![](Aspose.Words.fc33aa14-c623-4cb6-bab5-d18035d35dd8.003.png)
+![z12](https://github.com/user-attachments/assets/0b2e7430-b473-4440-a6c5-c3618412cbee)
+
 
 Sau khi giải nén ta có file manual.chm
 
@@ -31,11 +35,12 @@ Dùng lệnh md5sum manual.chm
 
 Mã hash của tệp mã độc: 860f86601bc18dd205a5edc0d57a658d
 
-![](Aspose.Words.fc33aa14-c623-4cb6-bab5-d18035d35dd8.004.png)
+![z13](https://github.com/user-attachments/assets/acfc029d-3049-4036-9cc4-20b9617199c9)
+
 
 \-------------------------------------------------------------------------------------------------------------------------
 
-**Question 2**
+## **Question 2**
 
 Địa chỉ của C2 Server được sử dụng để nhận thông tin (100)
 
@@ -43,11 +48,13 @@ Trả lời địa chỉ của C2 server theo dạng: IP:PORT
 ## **Answer 2**
 Ta thấy stream 29 máy bị tấn công gửi đi một lưu lượng dữ liệu
 
-![](Aspose.Words.fc33aa14-c623-4cb6-bab5-d18035d35dd8.005.png)
+![z2](https://github.com/user-attachments/assets/893509cb-9a92-4fcd-a50d-a06e9b43796e)
+
 
 ở stream 28 câu lệnh dir gửi đi máy chủ C&C
 
-![](Aspose.Words.fc33aa14-c623-4cb6-bab5-d18035d35dd8.006.png)
+![z22](https://github.com/user-attachments/assets/2cae2c46-cd8d-413e-8553-177772d1630e)
+
 
 \>>> Wireshark or analyze malware
 
@@ -57,7 +64,7 @@ Ta thấy stream 29 máy bị tấn công gửi đi một lưu lượng dữ li�
 
 \-------------------------------------------------------------------------------------------------------------------------
 
-**Question 3**
+## **Question 3**
 
 Câu lệnh C2 (100)
 
@@ -81,7 +88,7 @@ Như đã tìm thấy ở trên câu lệnh C&C gửi tới là dir
 
 \-------------------------------------------------------------------------------------------------------------------------
 
-**Question 4**
+## **Question 4**
 
 Downloader (100)
 
@@ -89,11 +96,12 @@ Sau khi được thực thi, mã độc đã tải về một tệp mã độc k
 
 Answer 4: http://43.203.173.81:8080
 
-![](Aspose.Words.fc33aa14-c623-4cb6-bab5-d18035d35dd8.007.png)
+![z44](https://github.com/user-attachments/assets/9cab5328-93a1-4e0a-9ff9-3e63eeb65acc)
+
 
 \-------------------------------------------------------------------------------------------------------------------------
 
-**Question 5**
+## **Question 5**
 
 Mã hash của độc menual (100)
 
