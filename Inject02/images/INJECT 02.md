@@ -2,7 +2,7 @@
 
 \----------------------------------------------------------------------------------------------------
 
-**Question 1**
+## **Question 1**
 
 Hình thức tấn công xâm nhập (100)
 
@@ -31,14 +31,16 @@ Dùng lệnh file để xem extensions file:
 
 - Như vậy ta thấy được định dạng file là file Sqlite. Sử dụng Sqlite để xem nội dung file:
 
-![](Aspose.Words.8b2112e4-22a3-4e1e-8bd6-1f4e42bb8dda.002.png)
+![image](https://github.com/user-attachments/assets/9f916a93-a2ca-42e4-be95-1b5116448aa3)
+
 
 - Quay lại file workspace\_mail\_logs.xlsx. Ta thấy là file chứa mail logs của công ty.
 
 Kiểm tra hết các logs, ta thấy được các mail đều được gửi từ các tên miền đã được kiểm chứng như google.com, woof.com, github.com. Trong đó có một tên miền dịch vụ mail đáng ngờ là proton.me.
 proton.me là dịch vụ email mã hóa đầu cuối (end-to-end encryption), tập trung vào bảo mật và quyền riêng tư. Dữ liệu email của người dùng được mã hóa cả khi lưu trữ và trong quá trình truyền tải, giúp che dấu đi người gửi thật sự. Như vậy dễ dàng thấy được mail đó đáng ngờ. Ngoài ra đây cũng là mail có nội dung tải file .zip và link tải tới một máy chủ không rõ bên ngoài và đã được click tải:
 
-![](Aspose.Words.8b2112e4-22a3-4e1e-8bd6-1f4e42bb8dda.003.png)
+![image](https://github.com/user-attachments/assets/be02aad4-4d74-44b6-bdf3-5d3ca2ac714d)
+
 
 Tất cả dữ kiện trên ta suy đoán được lần tấn công này được khai thác bằng hình thức email phishing.
 
@@ -85,7 +87,8 @@ Lựa chọn các mục sau:
 \- Trong nội dung file History. Ta thấy có một bảng là keyword\_search\_terms.
 Dữ liệu chứa trong bảng là các từ khóa đã được search bởi kẻ tấn công.
 
-![](Aspose.Words.8b2112e4-22a3-4e1e-8bd6-1f4e42bb8dda.004.png)
+![image](https://github.com/user-attachments/assets/0429a395-69c7-441a-a044-60895cc2af0f)
+
 
 \>>> 1,3
 
@@ -97,7 +100,8 @@ Trả lời password của tệp nén.
 ## **Answer 6**
 Password của tệp nén được lưu trong mail phising:
 
-![](Aspose.Words.8b2112e4-22a3-4e1e-8bd6-1f4e42bb8dda.005.png)
+![image](https://github.com/user-attachments/assets/e90aa911-6559-409a-8f0c-e6c38229a5cc)
+
 
 \>>> share
 
@@ -112,7 +116,8 @@ Trả lời tên người dùng của máy tính nghi ngờ nhiễm mã độc.
 
   C:\Users\user\Downloads\manual.zip
 
-![](Aspose.Words.8b2112e4-22a3-4e1e-8bd6-1f4e42bb8dda.006.png)
+![image](https://github.com/user-attachments/assets/9ab489f8-4d81-49bf-9a12-b145d2bdad4b)
+
 
 \>>> user
 
