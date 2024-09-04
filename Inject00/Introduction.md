@@ -10,17 +10,17 @@ Diễn tập APCERT 2024 sẽ bắt đầu trong 30 phút nữa.
 
 Thời gian của bài tập, bao gồm thông báo này, là năm (5) giờ.
 
-1. Kịch bản & Injects
+2. Kịch bản & Injects
 
 Sẽ có MỘT kịch bản chính với tám (8) inject chính đã được lên lịch trước, cộng thêm các inject động phản hồi theo sự tương tác của Người chơi.
 
 Nếu có nghi ngờ về địa chỉ nào cần sử dụng cho thông báo gỡ bỏ, vui lòng tham khảo mục “5. Giao tiếp Kịch bản Diễn tập trong khi Diễn tập” dưới đây, quy định rằng TẤT CẢ giao tiếp đều phải được chuyển đến EXCON qua menu Chat trên nền tảng.
 
-1. Các Người chơi và Người quan sát
+3. Các Người chơi và Người quan sát
 
 Các Người chơi và Người quan sát nên chuẩn bị đăng nhập với thông tin tài khoản được giao. Vui lòng giữ trực tuyến để kiểm tra các email mới với khoảng thời gian không dài hơn ba (3) phút trong suốt bài tập. Nếu bạn gặp bất kỳ khó khăn nào trong việc đăng nhập vào nền tảng, gửi email, hoặc gặp các vấn đề khác liên quan đến nền tảng, vui lòng tham khảo hướng dẫn sử dụng hoặc liên hệ với first-team@krcert.or.kr.
 
-1. Giao tiếp Diễn tập
+4. Giao tiếp Diễn tập
 
 Tất cả email của Người chơi phải được gửi đến EXCON. Nếu bạn có Người quan sát, hãy sao chép (cc) họ vào email. Trong nội dung tin nhắn, sử dụng các thẻ “TO:” và “CC:” để chỉ định các bên bạn muốn gửi đến, nhưng không đánh dấu là THẬT. =>KHÔNG BAO GIỜ<= gửi email đến các tổ chức THẬT =>TẤT CẢ<= các yêu cầu của Người chơi phải được gửi đến EXCON.
 
